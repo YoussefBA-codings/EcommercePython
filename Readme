@@ -1,0 +1,2 @@
+Launch server : pyhton3 manage.py runserver.py
+Add super user : pyhton3 manage.py createsuperuser
